@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+chromadb
+sentence-transformers
+numpy
+pandas
+pypdf
+python-pptx
+scikit-learn
